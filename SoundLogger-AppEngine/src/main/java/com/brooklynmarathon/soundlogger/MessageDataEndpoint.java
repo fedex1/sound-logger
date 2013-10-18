@@ -72,9 +72,10 @@ public class MessageDataEndpoint {
     /**
      * This method gets the entity having primary key id. It uses HTTP GET method.
      *
-     * @param id the primary key of the java bean.
-     * @return The entity with primary key id.
+     * @  param id the primary key of the java bean.
+     * @  return The entity with primary key id.
      */
+    /*
     @ApiMethod(name = "getMessageData")
     public MessageData getMessageData(@Named("id") Key id) {
         EntityManager mgr = getEntityManager();
@@ -86,6 +87,7 @@ public class MessageDataEndpoint {
         }
         return messageData;
     }
+    */
 
     /**
      * This inserts a new entity into App Engine datastore. If the entity already
