@@ -135,9 +135,11 @@ public class MessageDataEndpoint {
      * This method removes the entity with primary key id.
      * It uses HTTP DELETE method.
      *
-     * @param id the primary key of the entity to be deleted.
-     * @return The deleted entity.
+     * @   param id the primary key of the entity to be deleted.
+     * @   return The deleted entity.
      */
+
+    /*
     @ApiMethod(name = "removeMessageData")
     public MessageData removeMessageData(@Named("id") Key id) {
         EntityManager mgr = getEntityManager();
@@ -150,6 +152,7 @@ public class MessageDataEndpoint {
         }
         return messageData;
     }
+    */
 
     private boolean containsMessageData(MessageData messageData) {
         EntityManager mgr = getEntityManager();
