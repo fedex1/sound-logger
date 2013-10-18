@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SoundLogger/SoundLogger.iml" filepath="$PROJECT_DIR$/SoundLogger/SoundLogger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoundLogger-AppEngine/SoundLogger-AppEngine.iml" filepath="$PROJECT_DIR$/SoundLogger-AppEngine/SoundLogger-AppEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoundLoggerProject.iml" filepath="$PROJECT_DIR$/SoundLoggerProject.iml" />
+    </modules>
+  </component>
+</project>
+
